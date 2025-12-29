@@ -1,0 +1,8 @@
+Feature,Univariate_AUROC,Test,p_value
+has_allergy,0.48177578385511416,chi2,3.693341943604504e-14
+num_medications,0.4713008679231404,mannwhitney,1.3305439796988764e-10
+num_encounters,0.33256926834217354,mannwhitney,5.0382439705379253e-300
+num_procedures,0.3133015078803442,mannwhitney,0.0
+GENDER,,mannwhitney,
+RACE,,mannwhitney,
+ETHNICITY,,mannwhitney,
