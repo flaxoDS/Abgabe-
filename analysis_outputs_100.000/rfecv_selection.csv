@@ -1,5 +1,0 @@
-Feature,RFECV_Selected,RFECV_Rank
-num_procedures,True,1
-num_medications,True,1
-num_encounters,True,1
-has_allergy,True,1
