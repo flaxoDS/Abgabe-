@@ -1,137 +1,172 @@
 feat1,feat2,cramers_v
-Creatinine,has_allergy,
-Creatinine,Acute bronchitis (disorder),
-Creatinine,Prediabetes,
-Creatinine,Hypertension,
-Creatinine,Acute viral pharyngitis (disorder),
-Creatinine,Viral sinusitis (disorder),
-Creatinine,Penicillin V Potassium 250 MG,
-Creatinine,Td (adult) preservative free,
-Creatinine,Influenza  seasonal  injectable  preservative free,
-Creatinine,Documentation of current medications,
-Creatinine,Respiratory therapy,
-Creatinine,Diabetic diet,
-Creatinine,Exercise therapy,
-Creatinine,Recommendation to avoid exercise,
-Creatinine,Deep breathing and coughing exercises,
-Creatinine,Diabetes self management plan,
-has_allergy,Acute bronchitis (disorder),
-has_allergy,Prediabetes,
-has_allergy,Hypertension,
-has_allergy,Acute viral pharyngitis (disorder),
-has_allergy,Viral sinusitis (disorder),
-has_allergy,Penicillin V Potassium 250 MG,
-has_allergy,Td (adult) preservative free,
-has_allergy,Influenza  seasonal  injectable  preservative free,
-has_allergy,Documentation of current medications,
-has_allergy,Respiratory therapy,
-has_allergy,Diabetic diet,
-has_allergy,Exercise therapy,
-has_allergy,Recommendation to avoid exercise,
-has_allergy,Deep breathing and coughing exercises,
-has_allergy,Diabetes self management plan,
-Acute bronchitis (disorder),Prediabetes,
-Acute bronchitis (disorder),Hypertension,
-Acute bronchitis (disorder),Acute viral pharyngitis (disorder),
-Acute bronchitis (disorder),Viral sinusitis (disorder),
-Acute bronchitis (disorder),Penicillin V Potassium 250 MG,
-Acute bronchitis (disorder),Td (adult) preservative free,
-Acute bronchitis (disorder),Influenza  seasonal  injectable  preservative free,
-Acute bronchitis (disorder),Documentation of current medications,
-Acute bronchitis (disorder),Respiratory therapy,
-Acute bronchitis (disorder),Diabetic diet,
-Acute bronchitis (disorder),Exercise therapy,
-Acute bronchitis (disorder),Recommendation to avoid exercise,
-Acute bronchitis (disorder),Deep breathing and coughing exercises,
-Acute bronchitis (disorder),Diabetes self management plan,
-Prediabetes,Hypertension,
-Prediabetes,Acute viral pharyngitis (disorder),
-Prediabetes,Viral sinusitis (disorder),
-Prediabetes,Penicillin V Potassium 250 MG,
-Prediabetes,Td (adult) preservative free,
-Prediabetes,Influenza  seasonal  injectable  preservative free,
-Prediabetes,Documentation of current medications,
-Prediabetes,Respiratory therapy,
-Prediabetes,Diabetic diet,
-Prediabetes,Exercise therapy,
-Prediabetes,Recommendation to avoid exercise,
-Prediabetes,Deep breathing and coughing exercises,
-Prediabetes,Diabetes self management plan,
-Hypertension,Acute viral pharyngitis (disorder),
-Hypertension,Viral sinusitis (disorder),
-Hypertension,Penicillin V Potassium 250 MG,
-Hypertension,Td (adult) preservative free,
-Hypertension,Influenza  seasonal  injectable  preservative free,
-Hypertension,Documentation of current medications,
-Hypertension,Respiratory therapy,
-Hypertension,Diabetic diet,
-Hypertension,Exercise therapy,
-Hypertension,Recommendation to avoid exercise,
-Hypertension,Deep breathing and coughing exercises,
-Hypertension,Diabetes self management plan,
-Acute viral pharyngitis (disorder),Viral sinusitis (disorder),
-Acute viral pharyngitis (disorder),Penicillin V Potassium 250 MG,
-Acute viral pharyngitis (disorder),Td (adult) preservative free,
-Acute viral pharyngitis (disorder),Influenza  seasonal  injectable  preservative free,
-Acute viral pharyngitis (disorder),Documentation of current medications,
-Acute viral pharyngitis (disorder),Respiratory therapy,
-Acute viral pharyngitis (disorder),Diabetic diet,
-Acute viral pharyngitis (disorder),Exercise therapy,
-Acute viral pharyngitis (disorder),Recommendation to avoid exercise,
-Acute viral pharyngitis (disorder),Deep breathing and coughing exercises,
-Acute viral pharyngitis (disorder),Diabetes self management plan,
-Viral sinusitis (disorder),Penicillin V Potassium 250 MG,
-Viral sinusitis (disorder),Td (adult) preservative free,
-Viral sinusitis (disorder),Influenza  seasonal  injectable  preservative free,
-Viral sinusitis (disorder),Documentation of current medications,
-Viral sinusitis (disorder),Respiratory therapy,
-Viral sinusitis (disorder),Diabetic diet,
-Viral sinusitis (disorder),Exercise therapy,
-Viral sinusitis (disorder),Recommendation to avoid exercise,
-Viral sinusitis (disorder),Deep breathing and coughing exercises,
-Viral sinusitis (disorder),Diabetes self management plan,
-Penicillin V Potassium 250 MG,Td (adult) preservative free,
-Penicillin V Potassium 250 MG,Influenza  seasonal  injectable  preservative free,
-Penicillin V Potassium 250 MG,Documentation of current medications,
-Penicillin V Potassium 250 MG,Respiratory therapy,
-Penicillin V Potassium 250 MG,Diabetic diet,
-Penicillin V Potassium 250 MG,Exercise therapy,
-Penicillin V Potassium 250 MG,Recommendation to avoid exercise,
-Penicillin V Potassium 250 MG,Deep breathing and coughing exercises,
-Penicillin V Potassium 250 MG,Diabetes self management plan,
-Td (adult) preservative free,Influenza  seasonal  injectable  preservative free,
-Td (adult) preservative free,Documentation of current medications,
-Td (adult) preservative free,Respiratory therapy,
-Td (adult) preservative free,Diabetic diet,
-Td (adult) preservative free,Exercise therapy,
-Td (adult) preservative free,Recommendation to avoid exercise,
-Td (adult) preservative free,Deep breathing and coughing exercises,
-Td (adult) preservative free,Diabetes self management plan,
-Influenza  seasonal  injectable  preservative free,Documentation of current medications,
-Influenza  seasonal  injectable  preservative free,Respiratory therapy,
-Influenza  seasonal  injectable  preservative free,Diabetic diet,
-Influenza  seasonal  injectable  preservative free,Exercise therapy,
-Influenza  seasonal  injectable  preservative free,Recommendation to avoid exercise,
-Influenza  seasonal  injectable  preservative free,Deep breathing and coughing exercises,
-Influenza  seasonal  injectable  preservative free,Diabetes self management plan,
-Documentation of current medications,Respiratory therapy,
-Documentation of current medications,Diabetic diet,
-Documentation of current medications,Exercise therapy,
-Documentation of current medications,Recommendation to avoid exercise,
-Documentation of current medications,Deep breathing and coughing exercises,
-Documentation of current medications,Diabetes self management plan,
-Respiratory therapy,Diabetic diet,
-Respiratory therapy,Exercise therapy,
-Respiratory therapy,Recommendation to avoid exercise,
-Respiratory therapy,Deep breathing and coughing exercises,
-Respiratory therapy,Diabetes self management plan,
-Diabetic diet,Exercise therapy,
-Diabetic diet,Recommendation to avoid exercise,
-Diabetic diet,Deep breathing and coughing exercises,
-Diabetic diet,Diabetes self management plan,
-Exercise therapy,Recommendation to avoid exercise,
-Exercise therapy,Deep breathing and coughing exercises,
-Exercise therapy,Diabetes self management plan,
-Recommendation to avoid exercise,Deep breathing and coughing exercises,
-Recommendation to avoid exercise,Diabetes self management plan,
-Deep breathing and coughing exercises,Diabetes self management plan,
+Recommendation to avoid exercise,Respiratory therapy,1.0
+Deep breathing and coughing exercises,Respiratory therapy,1.0
+Diabetic diet,Diabetes self management plan,1.0
+Recommendation to avoid exercise,Deep breathing and coughing exercises,1.0
+Diabetes self management plan,Prediabetes,0.938469813066593
+Diabetic diet,Prediabetes,0.938469813066593
+Recommendation to avoid exercise,Acute bronchitis (disorder),0.9367501278282468
+Deep breathing and coughing exercises,Acute bronchitis (disorder),0.9367501278282468
+Acute bronchitis (disorder),Respiratory therapy,0.9367501278282468
+Diabetic diet,Creatinine,0.9022277452511742
+Diabetes self management plan,Creatinine,0.9022277452511742
+Diabetic diet,Exercise therapy,0.8647525937744934
+Diabetes self management plan,Exercise therapy,0.8647525937744934
+Prediabetes,Creatinine,0.851536648135768
+Prediabetes,Exercise therapy,0.8115252614769695
+Influenza  seasonal  injectable  preservative free,Documentation of current medications,0.7936719439179337
+Creatinine,Exercise therapy,0.7801844634635223
+Influenza  seasonal  injectable  preservative free,Td (adult) preservative free,0.41911840929439054
+Influenza  seasonal  injectable  preservative free,Viral sinusitis (disorder),0.4029102666301216
+Exercise therapy,Stress management,0.37496337842733113
+Viral sinusitis (disorder),Documentation of current medications,0.3264134020525954
+Td (adult) preservative free,Creatinine,0.3016129003464547
+Td (adult) preservative free,Documentation of current medications,0.2965416124371312
+Influenza  seasonal  injectable  preservative free,Creatinine,0.28119185630063304
+Influenza  seasonal  injectable  preservative free,Respiratory therapy,0.2791175684799873
+Influenza  seasonal  injectable  preservative free,Deep breathing and coughing exercises,0.2791175684799873
+Influenza  seasonal  injectable  preservative free,Recommendation to avoid exercise,0.2791175684799873
+Influenza  seasonal  injectable  preservative free,Acute bronchitis (disorder),0.2725821564957565
+Exercise therapy,Penicillin V Potassium 500 MG,0.2293445808250623
+Recommendation to avoid exercise,Documentation of current medications,0.22694141782152932
+Deep breathing and coughing exercises,Documentation of current medications,0.22694141782152932
+Documentation of current medications,Respiratory therapy,0.2269414178215293
+Creatinine,Documentation of current medications,0.22589164123858152
+Documentation of current medications,Acute bronchitis (disorder),0.22555749642324
+Diabetic diet,Td (adult) preservative free,0.21280338350080374
+Diabetes self management plan,Td (adult) preservative free,0.21280338350080374
+Diabetes self management plan,Penicillin V Potassium 500 MG,0.20648060591744935
+Diabetic diet,Penicillin V Potassium 500 MG,0.20648060591744935
+Viral sinusitis (disorder),Td (adult) preservative free,0.2061002842757881
+Td (adult) preservative free,Exercise therapy,0.20412077157263542
+Td (adult) preservative free,Prediabetes,0.2020883280535772
+Prediabetes,Penicillin V Potassium 500 MG,0.1968975250124452
+Exercise therapy,Hypertension,0.193277943974661
+Creatinine,Penicillin V Potassium 500 MG,0.18433625694832348
+Diabetes self management plan,Hypertension,0.17754737097585732
+Diabetic diet,Hypertension,0.17754737097585732
+Influenza  seasonal  injectable  preservative free,Penicillin V Potassium 250 MG,0.17615466538227204
+Td (adult) preservative free,Hypertension,0.1710510911868422
+Td (adult) preservative free,Penicillin V Potassium 500 MG,0.16547326991186026
+Exercise therapy,Chronic sinusitis (disorder),0.1607531082691115
+Creatinine,Hypertension,0.15440664951594582
+Diabetic diet,Chronic sinusitis (disorder),0.14465329492991152
+Diabetes self management plan,Chronic sinusitis (disorder),0.14465329492991152
+Prediabetes,Chronic sinusitis (disorder),0.13943770782809628
+Prediabetes,Hypertension,0.132149358316303
+Td (adult) preservative free,Respiratory therapy,0.13209652421861756
+Recommendation to avoid exercise,Td (adult) preservative free,0.13209652421861756
+Deep breathing and coughing exercises,Td (adult) preservative free,0.13209652421861756
+Penicillin V Potassium 250 MG,Td (adult) preservative free,0.13003985934249906
+Creatinine,Chronic sinusitis (disorder),0.13000369023564204
+Td (adult) preservative free,Chronic sinusitis (disorder),0.12923111336355964
+Viral sinusitis (disorder),Respiratory therapy,0.12725637076431623
+Viral sinusitis (disorder),Recommendation to avoid exercise,0.12725637076431623
+Viral sinusitis (disorder),Deep breathing and coughing exercises,0.12725637076431623
+Penicillin V Potassium 250 MG,Documentation of current medications,0.1268459289011358
+Diabetic diet,Stress management,0.12556584996552203
+Diabetes self management plan,Stress management,0.12556584996552203
+Viral sinusitis (disorder),Acute bronchitis (disorder),0.12387582240295011
+Hypertension,Stress management,0.12217349091820152
+Influenza  seasonal  injectable  preservative free,has_allergy,0.12117822386324302
+Viral sinusitis (disorder),Creatinine,0.12036805825116464
+Td (adult) preservative free,Acute bronchitis (disorder),0.11631269368896378
+Penicillin V Potassium 500 MG,Chronic sinusitis (disorder),0.11296554936759683
+Penicillin V Potassium 250 MG,Exercise therapy,0.10933970426338943
+Prediabetes,Stress management,0.10929716959085842
+Hypertension,Penicillin V Potassium 500 MG,0.10378258723996431
+Influenza  seasonal  injectable  preservative free,Hypertension,0.10042769970005806
+has_allergy,Documentation of current medications,0.09679745243288497
+Stress management,Penicillin V Potassium 500 MG,0.09654656404688064
+Influenza  seasonal  injectable  preservative free,Chronic sinusitis (disorder),0.09646281933066586
+Td (adult) preservative free,Stress management,0.09526761179783644
+Penicillin V Potassium 250 MG,Diabetes self management plan,0.09307338610293865
+Penicillin V Potassium 250 MG,Diabetic diet,0.09307338610293865
+Influenza  seasonal  injectable  preservative free,Diabetic diet,0.09053719097718627
+Influenza  seasonal  injectable  preservative free,Diabetes self management plan,0.09053719097718627
+Influenza  seasonal  injectable  preservative free,Prediabetes,0.08990426388456922
+Penicillin V Potassium 250 MG,Prediabetes,0.08701980631058524
+Penicillin V Potassium 250 MG,Hypertension,0.08419924949296853
+Penicillin V Potassium 250 MG,Creatinine,0.08344419289408954
+Creatinine,Stress management,0.08226049948819335
+Viral sinusitis (disorder),Penicillin V Potassium 250 MG,0.08128564707338491
+Hypertension,Chronic sinusitis (disorder),0.08127412001151825
+Influenza  seasonal  injectable  preservative free,Penicillin V Potassium 500 MG,0.07941119035923852
+Penicillin V Potassium 250 MG,Stress management,0.07740499553610103
+Creatinine,Respiratory therapy,0.07561501232205413
+Recommendation to avoid exercise,Creatinine,0.07561501232205413
+Deep breathing and coughing exercises,Creatinine,0.07561501232205413
+Documentation of current medications,Chronic sinusitis (disorder),0.07396967295640494
+Penicillin V Potassium 250 MG,Penicillin V Potassium 500 MG,0.0729545462642875
+Stress management,Chronic sinusitis (disorder),0.072424303657171
+Prediabetes,Documentation of current medications,0.07219613590037982
+Diabetes self management plan,Documentation of current medications,0.07116737144633012
+Diabetic diet,Documentation of current medications,0.07116737144633012
+Penicillin V Potassium 250 MG,Chronic sinusitis (disorder),0.07076587693496475
+Creatinine,Acute bronchitis (disorder),0.07065480101424969
+Penicillin V Potassium 250 MG,Recommendation to avoid exercise,0.06524753304124731
+Penicillin V Potassium 250 MG,Deep breathing and coughing exercises,0.06524753304124731
+Penicillin V Potassium 250 MG,Respiratory therapy,0.06524753304124731
+Documentation of current medications,Penicillin V Potassium 500 MG,0.05947358835195354
+Penicillin V Potassium 250 MG,Acute bronchitis (disorder),0.05857338331087193
+Influenza  seasonal  injectable  preservative free,Exercise therapy,0.05766121829537242
+Documentation of current medications,Hypertension,0.05717048703313162
+Viral sinusitis (disorder),has_allergy,0.049513432485300754
+Viral sinusitis (disorder),Hypertension,0.047419362987725276
+Viral sinusitis (disorder),Prediabetes,0.0444850993869924
+Viral sinusitis (disorder),Diabetes self management plan,0.04404683634703121
+Viral sinusitis (disorder),Diabetic diet,0.04404683634703121
+Documentation of current medications,Exercise therapy,0.04313476065973053
+Viral sinusitis (disorder),Chronic sinusitis (disorder),0.03917002479686003
+has_allergy,Respiratory therapy,0.037717509269953396
+has_allergy,Deep breathing and coughing exercises,0.037717509269953396
+has_allergy,Recommendation to avoid exercise,0.037717509269953396
+has_allergy,Acute bronchitis (disorder),0.03546441438259768
+Viral sinusitis (disorder),Penicillin V Potassium 500 MG,0.03454369101404275
+Hypertension,Respiratory therapy,0.031000648459791693
+Deep breathing and coughing exercises,Hypertension,0.031000648459791693
+Recommendation to avoid exercise,Hypertension,0.031000648459791693
+has_allergy,Exercise therapy,0.030082055936766938
+Viral sinusitis (disorder),Exercise therapy,0.02911959785474875
+has_allergy,Diabetes self management plan,0.027288447418001106
+has_allergy,Diabetic diet,0.027288447418001106
+has_allergy,Prediabetes,0.0271949362167612
+has_allergy,Penicillin V Potassium 500 MG,0.02682285179505912
+Penicillin V Potassium 250 MG,has_allergy,0.026200352921131213
+Deep breathing and coughing exercises,Prediabetes,0.025940847648976105
+Prediabetes,Respiratory therapy,0.025940847648976105
+Recommendation to avoid exercise,Prediabetes,0.025940847648976105
+Diabetic diet,Deep breathing and coughing exercises,0.025186163117188864
+Diabetic diet,Recommendation to avoid exercise,0.025186163117188864
+Recommendation to avoid exercise,Diabetes self management plan,0.025186163117188864
+Deep breathing and coughing exercises,Diabetes self management plan,0.025186163117188864
+Diabetic diet,Respiratory therapy,0.025186163117188864
+Diabetes self management plan,Respiratory therapy,0.025186163117188864
+Acute bronchitis (disorder),Hypertension,0.02381565509170731
+Deep breathing and coughing exercises,Chronic sinusitis (disorder),0.023196807726303073
+Recommendation to avoid exercise,Chronic sinusitis (disorder),0.023196807726303073
+Chronic sinusitis (disorder),Respiratory therapy,0.023196807726303073
+Penicillin V Potassium 500 MG,Respiratory therapy,0.021132509825356274
+Recommendation to avoid exercise,Penicillin V Potassium 500 MG,0.021132509825356274
+Deep breathing and coughing exercises,Penicillin V Potassium 500 MG,0.021132509825356274
+Prediabetes,Acute bronchitis (disorder),0.02072262717731315
+Acute bronchitis (disorder),Chronic sinusitis (disorder),0.019900774706477862
+Influenza  seasonal  injectable  preservative free,Stress management,0.019447089223430303
+Diabetes self management plan,Acute bronchitis (disorder),0.01937474902907817
+Diabetic diet,Acute bronchitis (disorder),0.01937474902907817
+Acute bronchitis (disorder),Penicillin V Potassium 500 MG,0.018616123183821047
+has_allergy,Creatinine,0.016956630511588397
+has_allergy,Td (adult) preservative free,0.016015484788536268
+Deep breathing and coughing exercises,Exercise therapy,0.015377061309675578
+Exercise therapy,Respiratory therapy,0.015377061309675578
+Recommendation to avoid exercise,Exercise therapy,0.015377061309675578
+Viral sinusitis (disorder),Stress management,0.013589524138966127
+Acute bronchitis (disorder),Exercise therapy,0.008575708148804392
+Recommendation to avoid exercise,Stress management,0.008070888647432543
+Stress management,Respiratory therapy,0.008070888647432543
+Deep breathing and coughing exercises,Stress management,0.008070888647432543
+Documentation of current medications,Stress management,0.007065335065599709
+has_allergy,Hypertension,0.004958929472575887
+has_allergy,Chronic sinusitis (disorder),0.004921889458582794
+has_allergy,Stress management,0.0025746276310968617
+Acute bronchitis (disorder),Stress management,0.0015055660912500163
