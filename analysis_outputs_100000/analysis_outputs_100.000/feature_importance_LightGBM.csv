@@ -1,0 +1,20 @@
+feature,importance
+BIRTHDATE,17173
+PATIENT,10001
+GENDER,9201
+Body Weight,1425
+RACE,0
+ETHNICITY,0
+Body Height,0
+Systolic Blood Pressure,0
+Diastolic Blood Pressure,0
+num_procedures,0
+Influenza  seasonal  injectable  preservative free,0
+Total Cholesterol,0
+High Density Lipoprotein Cholesterol,0
+Triglycerides,0
+Low Density Lipoprotein Cholesterol,0
+Viral sinusitis (disorder),0
+Penicillin V Potassium 250 MG,0
+num_medications,0
+num_encounters,0

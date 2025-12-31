@@ -1,0 +1,42 @@
+Feature,Count,Coverage
+PATIENT,132607,1.0
+GENDER,132607,1.0
+BIRTHDATE,132607,1.0
+RACE,132607,1.0
+ETHNICITY,132607,1.0
+Body Height,106952,0.8065335917410091
+Body Weight,106952,0.8065335917410091
+Systolic Blood Pressure,106952,0.8065335917410091
+Diastolic Blood Pressure,106952,0.8065335917410091
+num_procedures,132607,1.0
+Influenza  seasonal  injectable  preservative free,106335,0.8018807453603505
+Total Cholesterol,65033,0.4904190578174606
+High Density Lipoprotein Cholesterol,65033,0.4904190578174606
+Triglycerides,65033,0.4904190578174606
+Low Density Lipoprotein Cholesterol,65033,0.4904190578174606
+Viral sinusitis (disorder),53296,0.40190940146447773
+Penicillin V Potassium 250 MG,46938,0.3539632146115967
+num_medications,132607,1.0
+num_encounters,132607,1.0
+has_allergy,132607,1.0
+Diabetic diet,37509,0.28285837097589117
+Oral temperature,41735,0.3147269751973878
+Recommendation to avoid exercise,34166,0.2576485404239595
+Deep breathing and coughing exercises,34166,0.2576485404239595
+Diabetes self management plan,37509,0.28285837097589117
+Td (adult) preservative free,55127,0.415717119005784
+Body Mass Index,104484,0.7879222062183746
+Prediabetes,34201,0.2579124782251314
+Sodium,32241,0.2431319613595059
+Creatinine,32241,0.2431319613595059
+Urea Nitrogen,32241,0.2431319613595059
+Glucose,32241,0.2431319613595059
+Potassium,32241,0.2431319613595059
+Calcium,32241,0.2431319613595059
+Hemoglobin A1c/Hemoglobin.total in Blood,32241,0.2431319613595059
+Documentation of current medications,96463,0.7274352032698123
+Acute bronchitis (disorder),31030,0.23399971343895873
+Exercise therapy,45791,0.3453135958131924
+Hypertension,29990,0.22615699020413704
+Estimated Glomerular Filtration Rate,29023,0.21886476581175957
+Respiratory therapy,34166,0.2576485404239595

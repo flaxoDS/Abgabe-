@@ -1,0 +1,41 @@
+feature,importance_mean,importance_std
+num_encounters,0.3760324047238483,0.004307152186155764
+num_procedures,0.3740508659113101,0.004541337525750418
+num_medications,0.06194668071497311,0.0015351325218882182
+has_allergy,0.0059344368546659036,0.0002531237232713684
+ETHNICITY,0.0,0.0
+GENDER,0.0,0.0
+BIRTHDATE,0.0,0.0
+RACE,0.0,0.0
+PATIENT,0.0,0.0
+Diastolic Blood Pressure,0.0,0.0
+Systolic Blood Pressure,0.0,0.0
+Body Weight,0.0,0.0
+Body Height,0.0,0.0
+Triglycerides,0.0,0.0
+Influenza  seasonal  injectable  preservative free,0.0,0.0
+Total Cholesterol,0.0,0.0
+High Density Lipoprotein Cholesterol,0.0,0.0
+Penicillin V Potassium 250 MG,0.0,0.0
+Viral sinusitis (disorder),0.0,0.0
+Low Density Lipoprotein Cholesterol,0.0,0.0
+Diabetic diet,0.0,0.0
+Oral temperature,0.0,0.0
+Recommendation to avoid exercise,0.0,0.0
+Deep breathing and coughing exercises,0.0,0.0
+Diabetes self management plan,0.0,0.0
+Td (adult) preservative free,0.0,0.0
+Body Mass Index,0.0,0.0
+Prediabetes,0.0,0.0
+Sodium,0.0,0.0
+Creatinine,0.0,0.0
+Urea Nitrogen,0.0,0.0
+Glucose,0.0,0.0
+Potassium,0.0,0.0
+Calcium,0.0,0.0
+Hemoglobin A1c/Hemoglobin.total in Blood,0.0,0.0
+Documentation of current medications,0.0,0.0
+Acute bronchitis (disorder),0.0,0.0
+Exercise therapy,0.0,0.0
+Hypertension,0.0,0.0
+Estimated Glomerular Filtration Rate,0.0,0.0

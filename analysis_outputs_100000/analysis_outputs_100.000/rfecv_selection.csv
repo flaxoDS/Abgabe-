@@ -1,0 +1,20 @@
+Feature,RFECV_Selected,RFECV_Rank
+num_procedures,True,1
+num_medications,True,1
+num_encounters,True,1
+has_allergy,True,1
+Diabetic diet,True,1
+Prediabetes,True,1
+Respiratory therapy,True,1
+Recommendation to avoid exercise,False,2
+Hypertension,False,3
+Exercise therapy,False,4
+Acute bronchitis (disorder),False,5
+Documentation of current medications,False,6
+Creatinine,False,7
+Deep breathing and coughing exercises,False,8
+Td (adult) preservative free,False,9
+Diabetes self management plan,False,10
+Penicillin V Potassium 250 MG,False,11
+Viral sinusitis (disorder),False,12
+Influenza  seasonal  injectable  preservative free,False,13
